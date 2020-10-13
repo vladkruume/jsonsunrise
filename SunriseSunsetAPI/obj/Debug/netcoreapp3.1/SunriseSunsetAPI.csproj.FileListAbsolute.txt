@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.exe
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.deps.json
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.runtimeconfig.json
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.dll
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.pdb
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.dll
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.pdb
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.genruntimeconfig.cache
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.csproj.CopyComplete
